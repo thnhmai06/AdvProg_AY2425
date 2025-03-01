@@ -1,0 +1,41 @@
+{
+	"folders": [
+        {
+            "name": "root",
+            "path": ".."
+        }
+        {
+            "name": "Lesson 0 - Hello",
+            "path": "../AdvProg_L0-Hello"
+        },
+        {
+            "name": "Lesson 1 - GuessIt",
+            "path": "../AdvProg_L1-GuessIt"
+        },
+        {
+            "name": "Lesson 2 - Calculus",
+            "path": "../AdvProg_L2-Calculus"
+        },
+        {
+            "name": "Lesson 3 - HangMan",
+            "path": "../AdvProg_L3-HangMan"
+        },
+        {
+            "path": "../AdvProg_L4-SimpleAI",
+            "name": "Lesson 4 - SimpleAI"
+        },
+        {
+            "path": "../AdvProg_L5-Assessment",
+            "name": "Lesson 5 - Assessment"
+        },
+        {
+            "path": "../AdvProg_L6-Painter",
+            "name": "Lesson 6 - Painter"
+        },
+        {
+            "path": "../AdvProg_L7-Snake",
+            "name": "Lesson 7 - Snake"
+        }
+    ],
+    "settings": {}
+}
